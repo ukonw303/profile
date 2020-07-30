@@ -1,0 +1,77 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/ed/cf/68/edcf68db05979ba909851687ba7e2db2.gif);
+  }
+h1{
+	font-family: 'Concert One', cursive;
+	font-size: 60px;
+	padding: 10px 2px;
+}
+h2{
+	font-family: 'Concert One', cursive;
+	font-size: 30px;
+	padding: 10px 2px;
+	color: #fff;
+}
+h3{
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 30px;
+	padding: 10px 2px;
+	color: #fff;
+}
+h4{
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 27px;
+	color: #fff;
+}
+.navbar-brand {
+	font-family: 'Rajdhani', sans-serif;
+	color: #132ea5;
+	font-size: 28px;
+}
+.navbar-right{
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 26px;
+}
+.banner { 
+	background-image: url(images/rose.jpg);
+	padding: 395px 0 395px;
+	color: #000000;
+	cursor: default;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	float: left;
+}
+.banner-text h2 {
+	font-size: 50px;
+}
+.mynav {
+	transition: all 0.8s ease-in;
+	background: rgb(0, 0, 0) none repeat scroll 0% 0%;
+}
+.features {
+	padding: 100px 0px;
+	float: left;
+	width: 100%;
+}
+.portfolio {
+	padding: 50px 0;
+	background-color: rgba(235, 213, 235, 0.26);
+	float: left;
+	width: 100%;
+}
+.portfolio h3 {
+	margin-bottom: 50px;
+	display: inline-block;
+	line-height: 35px;
+}
+
+.starter-template{
+	word-spacing: 10px
+}
+footer {
+	padding: 25px 0;
+	text-align: center;
+	width: 100%;
+	float: left;
+}
